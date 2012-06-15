@@ -49,7 +49,7 @@ EE579 Final Project Reports
 ## Group 8
 ###	Make Decision! A networking decision-maker
 * [Project page](http://anrg.usc.edu/ee579_2012/Group08/)
-* Github link: <https://github.com/uscee579gp10/Ticketless_Parking_Structure>
+* Github link: <https://github.com/c10td/USC-EE579-Final-Project-Decision-Maker-Group-8>
 * Group members: Wanlong Cui, Wei Sun, Juanyi Feng
 
 ## Group 9
@@ -61,7 +61,7 @@ EE579 Final Project Reports
 ## Group 10
 ### Ticketless Parking Structure
 * [Project page](http://anrg.usc.edu/ee579_2012/Group10/)
-* Github link: <https://github.com/uscee579gp10/Ticketless_Parking_Structure>
+* Github link: <https://github.com/uscee579gp10/USC_EE579_TicketlessParkingStructure>
 * Group members: Sa Yang, Beibei Zhang, Ming-Tsan Yueh	
 
 ## Group 11
