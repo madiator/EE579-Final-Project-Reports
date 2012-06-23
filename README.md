@@ -1,3 +1,5 @@
+Update: Final page at http://anrg.usc.edu/ee579_2012/
+
 EE579 Final Project Reports
 ===========================
 
